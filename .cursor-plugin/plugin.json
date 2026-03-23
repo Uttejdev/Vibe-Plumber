@@ -9,6 +9,5 @@
   },
   "keywords": ["security", "vibecoding", "owasp", "auto-fix", "plumber"],
   "license": "MIT",
-  "icon": "icon.png",
   "categories": ["Security", "AI Coding"]
 }
