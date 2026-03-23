@@ -1,0 +1,14 @@
+{
+  "name": "vibeplumber",
+  "displayName": "VibePlumber – Invisible Security Plumber",
+  "description": "Auto-fixes leaks & clogs in vibe-coded apps. OWASP + best practices enforced silently on every AI response. Zero config after install.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Uttej",
+    "email": "uttejkotyada@gmail.com"
+  },
+  "keywords": ["security", "vibecoding", "owasp", "auto-fix", "plumber"],
+  "license": "MIT",
+  "icon": "icon.png",
+  "categories": ["Security", "AI Coding"]
+}
